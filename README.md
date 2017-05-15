@@ -1,8 +1,11 @@
 funds
 
 Aplikacja składa się z kilku interfejsów:
+
 -CalculateService: tworzy obliczenia 
+
 -FundsService: tworzona jest lista przykładowych funduszy 
+
 -DivisionService: tworzy listę funduszy wraz z kwotami i procentami
 
 Do działa applikacji w interfejsie calculateService stworzyłem kilka metod które tworzą różne obliczenia:
